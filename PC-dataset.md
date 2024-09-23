@@ -1,4 +1,12 @@
 
+- Effusion (삼출)은 여러 질환과 겹쳐서 보이며, 특히 **Cardiomegaly**, **Atelectasis**, **Pneumonia**, **Edema**와 자주 함께 나타남.
+
+- Consolidation (경화)과 Pneumonia (폐렴)은 겹쳐서 보이는 경우가 많음.
+
+- Cardiomegaly (심비대)는 **Edema (부종)**, Fibrosis (섬유증)와도 상당한 비율로 함께 보임.
+
+
+
 ## Statistical Summary
 
 |       |  MeanIntensity  |  StdIntensity  |
